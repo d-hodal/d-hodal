@@ -1,0 +1,1 @@
+Hi, welcome to my GitHub page. I am a burgeoning data scientist with a background as a professional dance artist.
